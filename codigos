@@ -1,3 +1,4 @@
+DASHBOARD.HTML
 <br><br><input type="button" value="Gerar pdf" onclick="gerarPdf()"><br>
 <script>
 function gerarPdf() {
@@ -14,3 +15,8 @@ function gerarPdf() {
     janela.print();
                     }
 </script>
+
+LOGIN.HTML
+<br><a href= "forgot.html" target="">Forgot Password</a>
+
+Baixar o HTML forgot.html e colocar na mesma pasta q os demais .html
